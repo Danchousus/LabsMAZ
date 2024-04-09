@@ -1,0 +1,11 @@
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe.config
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.pdb
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.AssemblyReference.cache
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.Form1.resources
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.Properties.Resources.resources
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.GenerateResource.cache
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.CoreCompileInputs.cache
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.exe
+D:\Visual Studio Extra\WithGit\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.pdb
