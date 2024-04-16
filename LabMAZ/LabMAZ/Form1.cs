@@ -11,9 +11,9 @@ namespace LabMAZ
         {
             null, //хафмен
             null, //Фано Шеннон
-            null,  //арифметическое
+            new ArifmeticCodir(),
             null, //БВТ и РЛЕ
-            null, //ЛЗ77
+            new LZ77(), //ЛЗ77
             null, //хемминг
             null,  //лин код 5,2
             new TestShifr(),
