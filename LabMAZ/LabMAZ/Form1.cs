@@ -12,7 +12,7 @@ namespace LabMAZ
             null, //хафмен
             null, //Фано Шеннон
             new ArifmeticCodir(),
-            null, //БВТ и РЛЕ
+            new BWT_RLE(),
             null, //ЛЗ77
             null, //хемминг
             null,  //лин код 5,2

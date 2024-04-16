@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArifmeticCodir.cs" />
+    <Compile Include="BWT_RLE.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
