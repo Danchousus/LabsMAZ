@@ -14,7 +14,7 @@ namespace LabMAZ
             new ArifmeticCodir(),
             new BWT_RLE(),
             new LZ77(), //ЛЗ77
-            null, //хемминг
+            new Hamming(), //хемминг
             null,  //лин код 5,2
             new TestShifr(),
         };

@@ -56,6 +56,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Haffman.cs" />
+    <Compile Include="Hamming.cs" />
     <Compile Include="IShifr.cs" />
     <Compile Include="LZ77.cs" />
     <Compile Include="Program.cs" />
