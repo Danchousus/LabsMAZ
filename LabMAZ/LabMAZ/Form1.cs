@@ -11,7 +11,7 @@ namespace LabMAZ
         {
             null, //хафмен
             new FanoShennon(), //Фано Шеннон
-            null,//new ArifmeticCodir(),
+            new ArifmeticCodir(),
             null, //БВТ и РЛЕ
             new LZ77(), //ЛЗ77
             null, //хемминг

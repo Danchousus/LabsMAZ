@@ -145,16 +145,17 @@ namespace LabMAZ
 
         public void Decodirov(string zacodirText, Dictionary<string, string> Diction, out string Text)
         {
+            Dictionary<string, string> Dictione = Diction.ToDictionary(pair => pair.Value, pair => pair.Key);
             StringBuilder decodedText = new StringBuilder();
             int index = 0;
 
             while (index < zacodirText.Length)
             {
-                foreach (var code in Diction.Keys)
+                foreach (var code in Dictione.Keys)
                 {
                     if (zacodirText.Substring(index).StartsWith(code))
                     {
-                        decodedText.Append(Diction[code]);
+                        decodedText.Append(Dictione[code]);
                         index += code.Length;
                         break;
                     }
