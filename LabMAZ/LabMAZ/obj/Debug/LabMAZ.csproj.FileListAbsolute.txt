@@ -29,3 +29,13 @@ D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.pdb
 D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe.config
 D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe
 D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.pdb
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe.config
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.pdb
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.AssemblyReference.cache
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.Form1.resources
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.Properties.Resources.resources
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.GenerateResource.cache
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.CoreCompileInputs.cache
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.exe
+D:\zavodch\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.pdb
