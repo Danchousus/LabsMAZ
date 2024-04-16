@@ -53,7 +53,7 @@ namespace LabMAZ
                 Shifrs[ComboVariantShifr.SelectedIndex].Codirov(TextDecodir.Text, out string Codir, out Dictionary<string, string> Slovar, out int WeightZacodirText);
                 TextCodir.Text = Codir;
                 TextSlovar.Text = DictionaryToString(Slovar);
-                double k = TextDecodir.Text.Length * 8 / WeightZacodirText;
+                double k = Convert.ToDouble(TextDecodir.Text.Length * 8) / Convert.ToDouble(WeightZacodirText);
                 MessageBox.Show($"Сжатие прошло успешно. Коэффициент сжатия = {k}");
             }
         }
