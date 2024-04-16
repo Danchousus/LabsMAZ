@@ -10,8 +10,8 @@ namespace LabMAZ
         public IShift[] Shifrs = new IShift[]
         {
             null, //хафмен
-            null, //Фано Шеннон
-            new ArifmeticCodir(),
+            new FanoShennon(), //Фано Шеннон
+            null,//new ArifmeticCodir(),
             null, //БВТ и РЛЕ
             new LZ77(), //ЛЗ77
             null, //хемминг

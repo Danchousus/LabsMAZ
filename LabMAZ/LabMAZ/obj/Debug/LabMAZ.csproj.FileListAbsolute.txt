@@ -19,3 +19,13 @@ D:\Program Files\Git\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.GenerateResou
 D:\Program Files\Git\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.CoreCompileInputs.cache
 D:\Program Files\Git\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.exe
 D:\Program Files\Git\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.pdb
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.AssemblyReference.cache
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.Form1.resources
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.Properties.Resources.resources
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.GenerateResource.cache
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.csproj.CoreCompileInputs.cache
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.exe
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\obj\Debug\LabMAZ.pdb
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe.config
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.exe
+D:\ZAV\LabsMAZ\LabMAZ\LabMAZ\bin\Debug\LabMAZ.pdb
