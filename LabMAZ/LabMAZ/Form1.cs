@@ -10,10 +10,10 @@ namespace LabMAZ
         public IShift[] Shifrs = new IShift[]
         {
             null, //хафмен
-            null, //Фано Шеннон
+            new FanoShennon(), //Фано Шеннон
             new ArifmeticCodir(),
             new BWT_RLE(),
-            null, //ЛЗ77
+            new LZ77(), //ЛЗ77
             null, //хемминг
             null,  //лин код 5,2
             new TestShifr(),
@@ -53,7 +53,7 @@ namespace LabMAZ
                 Shifrs[ComboVariantShifr.SelectedIndex].Codirov(TextDecodir.Text, out string Codir, out Dictionary<string, string> Slovar, out int WeightZacodirText);
                 TextCodir.Text = Codir;
                 TextSlovar.Text = DictionaryToString(Slovar);
-                double k = TextDecodir.Text.Length * 8 / WeightZacodirText;
+                double k = Convert.ToDouble(TextDecodir.Text.Length * 8) / Convert.ToDouble(WeightZacodirText);
                 MessageBox.Show($"Сжатие прошло успешно. Коэффициент сжатия = {k}");
             }
         }
