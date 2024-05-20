@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace LabMAZ
 {
@@ -15,8 +14,7 @@ namespace LabMAZ
             new BWT_RLE(),
             new LZ77(), //ЛЗ77
             new Hamming(), //хемминг
-            null,  //лин код 5,2
-            new TestShifr(),
+            new LinCode5_2()
         };
         public Form1()
         {

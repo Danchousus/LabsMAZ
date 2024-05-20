@@ -58,6 +58,7 @@
     <Compile Include="Haffman.cs" />
     <Compile Include="Hamming.cs" />
     <Compile Include="IShifr.cs" />
+    <Compile Include="LinCode5-2.cs" />
     <Compile Include="LZ77.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

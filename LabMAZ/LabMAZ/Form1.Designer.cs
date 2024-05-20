@@ -53,8 +53,7 @@ namespace LabMAZ
             "БВТ и РЛЕ",
             "ЛЗ77",
             "хемминг",
-            "лин код 5,2",
-            "TTTTTEEEEESSSSTTTTT"});
+            "лин код 5,2"});
             this.ComboVariantShifr.Location = new System.Drawing.Point(23, 75);
             this.ComboVariantShifr.Name = "ComboVariantShifr";
             this.ComboVariantShifr.Size = new System.Drawing.Size(260, 24);
@@ -62,7 +61,7 @@ namespace LabMAZ
             // 
             // TextDecodir
             // 
-            this.TextDecodir.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.TextDecodir.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F);
             this.TextDecodir.Location = new System.Drawing.Point(333, 75);
             this.TextDecodir.Multiline = true;
             this.TextDecodir.Name = "TextDecodir";
@@ -72,7 +71,7 @@ namespace LabMAZ
             // 
             // TextCodir
             // 
-            this.TextCodir.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.TextCodir.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F);
             this.TextCodir.Location = new System.Drawing.Point(765, 75);
             this.TextCodir.Multiline = true;
             this.TextCodir.Name = "TextCodir";
@@ -144,7 +143,7 @@ namespace LabMAZ
             // 
             // TextSlovar
             // 
-            this.TextSlovar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.TextSlovar.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F);
             this.TextSlovar.Location = new System.Drawing.Point(1129, 75);
             this.TextSlovar.Multiline = true;
             this.TextSlovar.Name = "TextSlovar";
